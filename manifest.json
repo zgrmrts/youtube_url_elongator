@@ -1,0 +1,16 @@
+{
+  "name": "Youtube URL Elongator",
+  "description": "Changes Youtube short URLs to long format. (e.g. http://youtu.be/kjYCSySObDo to https://www.youtube.com/watch?v=kjYCSySObDo)",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "*://youtu.be/*",
+    "webRequestBlocking"
+  ]
+}

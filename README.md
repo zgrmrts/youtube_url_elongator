@@ -1,6 +1,6 @@
 # Youtube URL elongator chrome extension
 
-Changes Youtube short URLs to long format. (e.g. http://youtu.be/kjYCSySObDo to https://www.youtube.com/watch?v=kjYCSySObDo)
+Changes shortened youtube URLs to long format. (e.g. http://youtu.be/kjYCSySObDo to https://www.youtube.com/watch?v=kjYCSySObDo)
 
 # Usage
 1. Save contents of this repo to your computer.
